@@ -14,6 +14,7 @@
     "jade": "*",
     "nodemailer": "^2.6.4",
     "nodemailer-smtp-transport": "^2.7.2",
+    "pdfkit": "^0.8.0",
     "phantom": "*",
     "phantomjs": "^2.1.7",
     "phantomjs-prebuilt": "^2.1.12"
